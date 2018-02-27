@@ -10,7 +10,7 @@
 #include "imx6qp.dtsi"
 
 / {
-	model = "Freescale i.MX6 Quad Plus SABRE Smart Device Board";
+	model = "Freescale i.MX6 Quad Plus Nkon Core Board for Yian";
 };
 
 &cpu0 {
